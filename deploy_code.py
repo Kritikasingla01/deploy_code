@@ -5,7 +5,7 @@ from zipfile import ZipFile
 import pathlib
 
 
-root_path = "C:\python\Deployment_code"
+root_path = "C:\project_clone\deploy_code"
 
 codeFolder_path = os.path.join(root_path,"code")
 config_env_path = os.path.join(root_path,"config_env")
